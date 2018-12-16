@@ -2,11 +2,11 @@
 
 ---
 
-### **Question: https://github.com/KBLin1996/Advertise_Click_Prediction/blob/master/Machine%20Learning.pdf**
+**Question: https://github.com/KBLin1996/Advertise_Click_Prediction/blob/master/Machine%20Learning.pdf**
 
-### **Reference (in Chinese): https://ithelp.ithome.com.tw/articles/10187452**
+**Reference (in Chinese): https://ithelp.ithome.com.tw/articles/10187452**
 
-### **Report (in Chinese): https://github.com/KBLin1996/Advertise_Click_Prediction/blob/master/Machine%20Learning%20(Report%20in%20Chinese).pdf**
+**Report (in Chinese): https://github.com/KBLin1996/Advertise_Click_Prediction/blob/master/Machine%20Learning%20(Report%20in%20Chinese).pdf**
 
 ---
 
