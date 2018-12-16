@@ -4,9 +4,9 @@
 
 **Question: https://github.com/KBLin1996/Advertise_Click_Prediction/blob/master/Machine%20Learning.pdf**
 
-**What you will get after Execution → a CSV file (Predict.csv) that predicts if the users in input.csv will click on advertisement**
-
 ***Avertise's Training DataSet Download: https://drive.google.com/file/d/1KkcUKNhRmboffDvGoTwL-32ZkbVPz3be/view?usp=sharing***
+
+**What you will get after Execution → a CSV file (Predict.csv) that predicts if the users in input.csv will click on advertisement**
 
 ---
 
