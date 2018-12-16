@@ -6,7 +6,7 @@
 
 ***Avertise's Training DataSet Download: https://drive.google.com/file/d/1KkcUKNhRmboffDvGoTwL-32ZkbVPz3be/view?usp=sharing***
 
-**What you will get after Execution → a CSV file (Predict.csv) that predicts if the users in input.csv will click on advertisement**
+**What you will get after Execution → a CSV file (Predict.csv) that predicts if the users in input.csv will click on advertisement (or you can cut Training Set into Training, Testing and Validating to vertify the model)**
 
 ---
 
